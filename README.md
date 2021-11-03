@@ -1,6 +1,6 @@
 <h2>
   Hi there 👋 
-  <p>I'm Isaac Imaobong Samuel.&nbsp;(zieeco)</p>
+  <p>I'm Isaac Imaobong Samuel</p>
   <p align="left"><img src="https://komarev.com/ghpvc/?username=zieeco&label=Views&color=blue&style=plastic" alt="zieeco"/></p>
 </h2>
 
