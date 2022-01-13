@@ -16,7 +16,7 @@
 </details>
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zieeco&show_icons=true&count private=true&theme=calm" width="412"/></a><br>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zieeco&show_icons=true&count private=true&theme=calm"/></a>
   <a ahref="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zieeco&layout=compact&theme=calm"/ height="196"></a>
  </p>
  
