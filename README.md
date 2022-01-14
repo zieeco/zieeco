@@ -5,19 +5,20 @@
 </h2>
 
  <details>
+  
   <summary>⚡ Quick facts</summary>
   
   - I'm currently studying at ![](https://img.shields.io/badge/-Microverse-blueviolet) to become a **Full-stack web developer** :computer:
   - I'm doing my best to learn the programming best practices and become a better remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet) :book:
   - I would love to collaborate and contribute to open source projects. 👯
-  - I would like to contribute to the field of `Education Technology in the future.
+  - I would like to contribute to the field of Education Technology in the future.
   - I'm a drummer and love music
 
 </details>
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zieeco&show_icons=true&count private=true&theme=calm"/></a>
-  <a ahref="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zieeco&layout=compact&theme=calm"/ height="196"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zieeco&show_icons=true&count private=true&theme=calm" width="412"/></a>
+  <a ahref="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zieeco&layout=compact&theme=calm"/ height="162"></a>
  </p>
  
 <h3>
