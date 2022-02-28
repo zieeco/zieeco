@@ -40,7 +40,7 @@
 <h3 align="left"><b>Connect with me</b> 📫</h3>
 <p align="left">
   <a target="_blank"
-    href="https://www.linkedin.com/in/isaac-imaobong-samuel-a4849b1b8/"><img
+    href="https://www.linkedin.com/in/isaac-imaobong-samuel"><img
     src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
   <a target="_blank"
     href="mailto:zieecosam@gmail.com"><img
