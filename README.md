@@ -4,16 +4,14 @@
   <p align="left"><img src="https://komarev.com/ghpvc/?username=zieeco&label=Views&color=blue&style=plastic" alt="zieeco"/></p>
 </h2>
 
- <details>
+<details>
+  <summary>⚡ Quick Facts</summary>
   
-  <summary>⚡ Quick facts</summary>
-  
-  - I'm currently studying at ![](https://img.shields.io/badge/-Microverse-blueviolet) to become a **Full-stack web developer** :computer:
-  - I'm doing my best to learn the programming best practices and become a better remote software developer with the help of 
-  ![](https://img.shields.io/badge/-Microverse-blueviolet) :book:
-  - I would love to collaborate and contribute to open source projects. 👯
-  - I would like to contribute to the field of Education Technology in the future.
-  - I'm a drummer and love music. 🥁 🎧
+  - I'm a **Full-stack web developer** with expertise in building dynamic and responsive web applications. 💻
+  - I've honed my skills in programming best practices and remote software development through ![](https://img.shields.io/badge/-Microverse-blueviolet). 🎓
+  - I love collaborating and contributing to **open-source projects**. 👯
+  - I'm passionate about contributing to the field of **Education Technology**, creating impactful solutions for learners worldwide. 🌍
+  - Outside of coding, I'm a drummer who loves music. 🥁 🎧
 
 </details>
 
