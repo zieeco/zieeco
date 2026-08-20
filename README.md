@@ -1,5 +1,5 @@
-## Hi there 👋 
-I'm Isaac Imaobong Samuel
+<h1 align="center">Hi there 👋</h1>
+<p align="center">I'm Isaac Imaobong Samuel</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zieeco&label=Profile+Views&color=blue&style=plastic" alt="zieeco profile views"/>
@@ -10,6 +10,8 @@ I'm Isaac Imaobong Samuel
   React • TypeScript • Next.js • Node.js/NestJS • Python/Django • Databases | Lagos, Nigeria<br>
   Building apps by day, beats by night 🥁 | DMs open on X @zieecodes
 </p>
+
+---
 
 <details>
   <summary>⚡ Quick Facts</summary>
@@ -23,18 +25,29 @@ I'm Isaac Imaobong Samuel
 
 </details>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=zieeco&show_icons=true&count_private=true&theme=calm&hide_border=true" width="48%" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zieeco&layout=compact&theme=calm&hide_border=true" width="48%" alt="Top languages"/>
-  </a>
-</p>
+---
+
+<table align="center" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.shion.dev/api?username=zieeco&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub stats"/>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zieeco&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%"  alt="Top languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 
 <h3 align="center">💻 Skills & Technologies</h3>
 
-<p align="center">
+<p align="justify">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
